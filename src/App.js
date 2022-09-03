@@ -20,13 +20,13 @@ function App() {
       title: "Follow My Lead",
       artist: "Mr P ft. Wande Coal",
       img_src: "./images/follow-my-lead.webp",
-      src: "./songs/follow-my-lead.mp3",
+      src: "./songs/Follow-my-lead.mp3",
     },
     {
       title: "Abule",
       artist: "Patoranking",
       img_src: "./images/pato-abule.webp",
-      src: "./songs/patoranking-abule.mp3",
+      src: "./songs/Patoranking-Abule.mp3",
     },
     {
       title: "Mapariwo",
